@@ -24,7 +24,7 @@ L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft)
 
 [Par ici!](https://www.raidbots.com/simbot/quick)
 
-Pas besoin de se prendre la tête, une fois le personnage importé on clique sur Run quick sim et pouf! :boom: On a le DPS *théorique* de notre personnage.
+Pas besoin de se prendre la tête, une fois le personnage importé on clique sur **Run quick sim** et pouf! :boom: On a le DPS *théorique* de notre personnage.
 
 ### Les paramètres intéressants
 
