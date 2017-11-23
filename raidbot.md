@@ -3,7 +3,9 @@
 ## Simulation craft c'est quoi?
 
 Simulation craft permet de simuler n'importe quel personnage dans n'importe quelle situation.
+
 Il est extrêmement utile pour optimiser son personnage mais comprend quelques inconvénients corrigés par Raidbots.
+
 Difficile à prendre en main et consomme énormément de ressources CPU notamment.
 
 
@@ -21,7 +23,7 @@ L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft)
 
 ## [Quick sim](https://www.raidbots.com/simbot/quick)
 
-Pas besoin de se prendre la tête, une fois le personnage importé on clique sur Run quick sim et pouf! On a le DPS *théorique* de notre personnage.
+Pas besoin de se prendre la tête, une fois le personnage importé on clique sur Run quick sim et :boom:! On a le DPS *théorique* de notre personnage.
 
 ### Les paramètres intéressants
 
