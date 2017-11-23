@@ -70,12 +70,12 @@ Mon perso va gagner 27 dps par point d'agilité, puis 26 par point de polyvalenc
 
 Permet de trouver quel ensemble d'objet rapport le plus de DPS.
 
-On selectionne les objets qu'on veut ajouter dans la comparaison puis dans la partie **Gems/Enchants** on rentre les gemmes et enchantements qu'on utilise habituellement.
+On selectionne les objets qu'on veut mettre dans la comparaison, puis dans la partie **Gems/Enchants** on rentre les gemmes et enchantements qu'on utilise habituellement.
 
 Bouton **Find top gear** puis on le laisse mouliner.
 
 `
 Exemple de résultat :
-![My helpful screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 `
+![screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 
