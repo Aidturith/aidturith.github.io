@@ -27,14 +27,21 @@ Pas besoin de se prendre la tête, une fois le personnage importé on clique sur
 
 ### Les paramètres intéressants
 
-- Durée du combat
+Durée du combat
+<br />
 On peut faire varier la durée du combat avec **Fight Length**, essayer avec 1 minute par exemple pour tester le burst.
 
-- Nombre de cible
+Nombre de cible
+<br />
 On peut faire varier le nombre de boss de 1 à 5 avec **Number of Bosses**. Très utile pour le multi-dot ou le cleave.
 
-- Style du combat
-Sur **Fight Style** on a le choix entre *Patchwerk* (mono-cible bête et méchant); Hectic Add Cleave (pour rajouter des phases d'AOE); *Light ou Heavy Movement* (pour rajouter des déplacements) ou Helter Skelter (pour rajouter des pauses).
+Style du combat
+<br />
+Sur **Fight Style** on a le choix entre :
+- Patchwerk (mono-cible bête et méchant)
+- Hectic Add Cleave (pour rajouter des phases d'AOE)
+- Light ou Heavy Movement (pour rajouter des déplacements)
+- Helter Skelter (pour rajouter des pauses).
 
 
 ## Stat weights
