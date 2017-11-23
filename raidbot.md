@@ -50,7 +50,7 @@ Sur **Fight Style** on a le choix entre :
 
 Affiche le nombre de DPS gagné par point de stat. (Pour calculer les stats il faut remonter le nombre d'**Itérations** à 50 000 sinon le calcul ne sera pas assez précis.)
 
-Par exemple sur mon druide feral:
+Par exemple sur mon druide feral :tiger: :
 
 | stat | dps |
 |-------|--------|
