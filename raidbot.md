@@ -14,14 +14,16 @@ Simulation craft mais sur le "cloud"! Avec une interface user-friendly et des ca
 
 ## Les liens importants
 
-Le site [raidbots.com](https://www.raidbots.com)
+Le site [raidbots.com](https://www.raidbots.com).
 
 L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft), indispensable pour faire un copier/coller de son perso dans raidbots. Il suffit de taper /simc en jeu pour faire apparaitre les paramètres à copier dans raidbots.
 
 
-## [Quick sim](https://www.raidbots.com/simbot/quick)
+## Quick sim
 
-Pas besoin de se prendre la tête, une fois le personnage importé on clique sur Run quick sim et :boom: ! On a le DPS *théorique* de notre personnage.
+[Par ici!](https://www.raidbots.com/simbot/quick)
+
+Pas besoin de se prendre la tête, une fois le personnage importé on clique sur Run quick sim et pouf! :boom: On a le DPS *théorique* de notre personnage.
 
 ### Les paramètres intéressants
 
@@ -36,6 +38,21 @@ Sur **Fight Style** on a le choix entre *Patchwerk* (mono-cible bête et méchan
 
 
 ## Stat weights
+
+[Par ici!](https://www.raidbots.com/simbot/stats)
+
+Affiche le nombre de DPS gagné par point de stat. Pour calculer les stats il vaut mieux remonter le nombre d'**Itérations** à 50 000 pour avoir le plus précision possible.
+
+Par exemple sur mon druide feral:
+
+| Agi | 26.95 |
+| Vers | 25.92 |
+| Crit | 23.78 |
+| Mastery | 21.73 |
+| Haste | 16.13 |
+
+Mon perso va gagner 27 dps par point d'agilité, puis 26 par point de polyvalence... Je devrais donc privilégier ces stats.
+
 
 ## Top Gear
 
