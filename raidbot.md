@@ -1,8 +1,8 @@
 # Tuto Raidbots
 
-## Simulation craft c'est quoi?
+## Simulation Craft c'est quoi?
 
-Simulation craft permet de simuler n'importe quel personnage dans n'importe quelle situation.
+Simulation Craft permet de simuler n'importe quel personnage dans n'importe quelle situation.
 
 Il est extrêmement utile pour optimiser son personnage mais comprend quelques inconvénients corrigés par Raidbots. Difficile à prendre en main et consomme énormément de ressources CPU notamment.
 
@@ -45,6 +45,8 @@ Affiche le nombre de DPS gagné par point de stat. Pour calculer les stats il va
 
 Par exemple sur mon druide feral:
 
+| stat | dps |
+|-------|--------|
 | Agi | 26.95 |
 | Vers | 25.92 |
 | Crit | 23.78 |
