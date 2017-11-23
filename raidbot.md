@@ -4,12 +4,13 @@
 
 Simulation Craft permet de simuler n'importe quel personnage dans n'importe quelle situation.
 
-Il est extrêmement utile pour optimiser son personnage mais comprend quelques inconvénients corrigés par Raidbots. Difficile à prendre en main et consomme énormément de ressources CPU notamment.
+Il est extrêmement utile pour optimiser son personnage mais comprend aussi quelques inconvénients. Difficile à prendre en main et consomme énormément de ressources CPU notamment.
 
 
 ## Et Raidbots?
 
-Simulation craft mais sur le "cloud"! Avec une interface user-friendly et des calculs fait sur les serveurs raidbots.com.
+Gomme tout les inconvénients de Simulation Craft?
+C'est un service hébergé en "cloud"! Avec une interface user-friendly et des calculs fait à distance.
 
 
 ## Les liens importants
@@ -69,10 +70,12 @@ Mon perso va gagner 27 dps par point d'agilité, puis 26 par point de polyvalenc
 
 Permet de trouver quel ensemble d'objet rapport le plus de DPS.
 
-On selectionne les objets qu'on veut ajouter dans la comparaison puis dans la partie **Gems/Enchants** on rentre les gemmes et enchantements qu'on utilise habituellement. Bouton **Find top gear** puis on le laisse mouliner.
+On selectionne les objets qu'on veut ajouter dans la comparaison puis dans la partie **Gems/Enchants** on rentre les gemmes et enchantements qu'on utilise habituellement.
+
+Bouton **Find top gear** puis on le laisse mouliner.
 
 `
-Par exemple :
+Exemple de résultat :
 ![My helpful screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 `
 
