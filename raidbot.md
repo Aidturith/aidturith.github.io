@@ -1,4 +1,4 @@
-# Tuto Raidbots
+# Tutorial Raidbots
 
 ## Simulation Craft c'est quoi?
 
