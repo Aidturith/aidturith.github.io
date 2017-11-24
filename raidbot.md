@@ -15,7 +15,9 @@ C'est un service hébergé en "cloud"! Avec une interface user-friendly et des c
 
 ## Les liens importants
 
-Le site [raidbots.com]("https://www.raidbots.com" target="_blank").
+Le site [raidbots.com](https://www.raidbots.com).
+
+<a href="https://www.raidbots.com" target="_blank">Hello, world!</a>
 
 L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft), indispensable pour faire un copier/coller de son perso dans raidbots. Il suffit de taper /simc en jeu pour faire apparaitre les paramètres à copier dans raidbots.
 
