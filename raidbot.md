@@ -41,9 +41,9 @@ On peut faire varier le nombre de boss de 1 à 5 avec **Number of Bosses**. Trè
 ###### Style du combat
 Sur **Fight Style** on a le choix entre :
 - Patchwerk (mono-cible bête et méchant)
-- Hectic Add Cleave (pour rajouter des phases d'AOE)
-- Light ou Heavy Movement (pour rajouter des déplacements)
-- Helter Skelter (pour rajouter des pauses).
+- Hectic Add Cleave (rajoute des phases d'AOE)
+- Light ou Heavy Movement (rajoute des déplacements)
+- Helter Skelter (rajoute des pauses).
 
 ---
 
