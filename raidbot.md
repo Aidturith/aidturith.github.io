@@ -48,6 +48,9 @@ Sur **Fight Style** on a le choix entre :
 - Light ou Heavy Movement (pour rajouter des déplacements)
 - Helter Skelter (pour rajouter des pauses).
 
+---
+
+---
 
 ## Stat weights
 
@@ -67,6 +70,9 @@ Par exemple sur mon druide feral :tiger: :
 
 Mon perso va gagner 27 dps par point d'agilité, puis 26 par point de polyvalence... Je devrais donc privilégier ces stats.
 
+---
+
+---
 
 ## Top Gear
 
@@ -78,12 +84,8 @@ On selectionne les objets qu'on veut mettre dans la comparaison, puis dans la pa
 
 Bouton **Find top gear** puis on le laisse mouliner.
 
-`
-Exemple de résultat :
-`
+`Exemple de résultat :`
 ![screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 
 
-> version 0.1
-
-> patch 7.2.5
+> version 0.1 - patch 7.2.5
