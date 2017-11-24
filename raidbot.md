@@ -54,8 +54,6 @@ Sur **Fight Style** on a le choix entre :
 
 Affiche le nombre de DPS gagné par point de stat.
 
-> Pour calculer les stats il faut remonter le nombre d'**Itérations** à 50 000 sinon le calcul ne sera pas assez précis.
-
 Par exemple sur mon druide feral :tiger: :
 
 | stat | dps |
@@ -66,7 +64,10 @@ Par exemple sur mon druide feral :tiger: :
 | Mastery | 21.73 |
 | Haste | 16.13 |
 
-Mon perso va gagner 27 dps par point d'agilité, puis 26 par point de polyvalence... Je devrais donc privilégier ces stats.
+Mon personnage va gagner 26 DPS par point de polyvalence, puis 24 par point de critique...<br />
+Je vais donc devoir privilégier ces stats.
+
+> Pour calculer les stats il faut remonter le nombre d'**Itérations** à 50 000 sinon le calcul ne sera pas assez précis.
 
 ---
 
