@@ -86,5 +86,13 @@ Bouton **Find top gear** puis on le laisse mouliner.
 `Exemple de résultat :`
 ![screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 
+---
+
+---
+
+## Gear Compare
+
+todo
+
 
 > version 0.1 - patch 7.2.5
