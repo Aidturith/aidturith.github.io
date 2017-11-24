@@ -22,6 +22,8 @@ L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft)
 
 ---
 
+---
+
 ## Quick sim
 
 [Par ici!](https://www.raidbots.com/simbot/quick)
@@ -83,4 +85,5 @@ Exemple de résultat :
 
 
 > version 0.1
+
 > patch 7.2.5
