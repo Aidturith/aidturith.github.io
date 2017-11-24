@@ -20,6 +20,7 @@ Le site [raidbots.com](https://www.raidbots.com).
 
 L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft), indispensable pour faire un copier/coller de son perso dans raidbots. Il suffit de taper /simc en jeu pour faire apparaitre les paramètres à copier dans raidbots.
 
+---
 
 ## Quick sim
 
