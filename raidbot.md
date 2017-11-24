@@ -9,7 +9,8 @@ Il est extrêmement utile pour optimiser son personnage mais comprend aussi quel
 
 ## Et Raidbots?
 
-Gomme tout les inconvénients de Simulation Craft?
+Gomme tout les inconvénients de Simulation Craft.
+<br />
 C'est un service hébergé en "cloud"! Avec une interface user-friendly et des calculs fait à distance.
 
 
@@ -28,15 +29,15 @@ Pas besoin de se prendre la tête, une fois le personnage importé on clique sur
 
 ### Les paramètres intéressants
 
-Durée du combat
+Durée du combat:
 <br />
 On peut faire varier la durée du combat avec **Fight Length**, essayer avec 1 minute par exemple pour tester le burst.
 
-Nombre de cible
+Nombre de cible:
 <br />
 On peut faire varier le nombre de boss de 1 à 5 avec **Number of Bosses**. Très utile pour le multi-dot ou le cleave.
 
-Style du combat
+Style du combat:
 <br />
 Sur **Fight Style** on a le choix entre :
 - Patchwerk (mono-cible bête et méchant)
