@@ -17,7 +17,7 @@ C'est un service hébergé en "cloud"! Avec une interface user-friendly et des c
 
 Le site <a href="https://www.raidbots.com" target="_blank">raidbots.com</a>.
 
-L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft), indispensable pour faire un copier/coller de son perso dans raidbots. Il suffit de taper /simc en jeu pour faire apparaitre les paramètres à copier dans raidbots.
+L'<a href="https://www.curseforge.com/wow/addons/simulationcraft" target="_blank">addon Simulationcraft</a>, indispensable pour faire un copier/coller de son perso dans raidbots. Il suffit de taper /simc en jeu pour faire apparaitre les paramètres à copier dans raidbots.
 
 ---
 
@@ -25,7 +25,7 @@ L'[addon Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft)
 
 ## Quick sim
 
-[Par ici!](https://www.raidbots.com/simbot/quick)
+<a href="https://www.raidbots.com/simbot/quick" target="_blank">Par ici!</a>
 
 Pas besoin de se prendre la tête, une fois le personnage importé on clique sur **Run quick sim** et pouf! :boom: On a le DPS *théorique* de notre personnage.
 
@@ -50,7 +50,7 @@ Sur **Fight Style** on a le choix entre :
 
 ## Stat weights
 
-[Par ici!](https://www.raidbots.com/simbot/stats)
+<a href="https://www.raidbots.com/simbot/stats" target="_blank">Par ici!</a>
 
 Affiche le nombre de DPS gagné par point de stat.
 
@@ -75,7 +75,7 @@ Je vais donc devoir privilégier ces stats.
 
 ## Top Gear
 
-[Par ici!](https://www.raidbots.com/simbot/topgear)
+<a href="https://www.raidbots.com/simbot/topgear" target="_blank">Par ici!</a>
 
 Permet de trouver quel ensemble d'objet rapport le plus de DPS.
 
