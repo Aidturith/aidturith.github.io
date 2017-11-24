@@ -80,3 +80,6 @@ Exemple de résultat :
 `
 ![screenshot]({{ "/raidbots__compare_gear.PNG" | absolute_url }})
 
+
+> version 0.1
+
