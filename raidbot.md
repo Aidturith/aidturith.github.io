@@ -54,7 +54,7 @@ Sur **Fight Style** on a le choix entre :
 
 Affiche le nombre de DPS gagné par point de stat.
 
-Par exemple sur mon druide feral :tiger: :
+Par exemple sur mon druide feral  :smirk_cat: :
 
 | stat | dps |
 |-------|--------|
