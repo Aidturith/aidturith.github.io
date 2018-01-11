@@ -2,9 +2,14 @@
 
 [Warcraft Logs](https://www.warcraftlogs.com/) propose plusieurs manière d'améliorer son personnage.
 
+
 ## Les logs de la guilde
 
 Tout d'abord [les logs de la guilde par ici](https://www.warcraftlogs.com/guilds/99437), sinon en passant directement par la barre de recherche "Wisdom".
+
+---
+
+---
 
 ## Mesurer sa progression
 
@@ -23,7 +28,7 @@ Pour voir le détail boss par boss, il faut passer par le menu déroulant **All 
 
 Les courbes de ranking (orange, violette, bleue, verte, ...) représentent la progression de la communauté et les points nos propres downs. 
 
-Sur l'exemple on peut facilement recouper les points avec le tableau qui nous donne aussi l'ilvl. Il y a une nette amélioration sur les trois derniers points qui correspondent à +5 ilvl et le T21 2p.
+Sur l'exemple de Garothi HM on peut facilement recouper les points avec le tableau qui nous donne aussi l'ilvl. Il y a une nette amélioration sur les trois derniers points qui correspondent à +5 ilvl et le T21 2p.
 
 ---
 
@@ -31,7 +36,19 @@ Sur l'exemple on peut facilement recouper les points avec le tableau qui nous do
 
 ## Les builds populaires
 
-https://www.warcraftlogs.com/rankings/17#boss=2076&difficulty=4&class=Druid&spec=Feral
+En passant par le menu Hamburger...
+
+<screenshot_3a>
+
+On retombe sur les classements toutes classes confondues. On choisit la difficulté du raid, sa spécialisation.
+
+<screenshot_3b>
+
+La page nous affiche les talents, bijoux et légendaires les plus utilisés sur un boss donné (ici Felhounds of Sargeras). On peut rapidement voir les combinaisons viables, le build mono-cible et le build cleave si les chiens assez proche les uns des autres.
+
+---
+
+---
 
 ## Comparer ses logs
 
