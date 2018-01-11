@@ -52,10 +52,31 @@ La page nous affiche les talents, bijoux et légendaires les plus utilisés sur 
 
 ## Comparer ses logs
 
+### Trouver un down similaire
+
+Warcraft Logs a une fonction très intéressante qui permet de trouver des logs similaires aux siens et de les comparer :
+
+<screenshot_4a>
+
+On laisse les paramètres par défaut pour tomber sur le résultat :
+
+<screenshot_4b>
+
+### Analyse de sa performance
+
+Place à la comparaison en elle même, je voudrais savoir pourquoi j'ai 150k dps de moins que Maplewind dans des conditions similaires sur Imonar.
+
+<screenshot_5a>
+
+En regardant le graphique, on remarque 4 différences majeurs. Sur l'opening, sur le 1er passage du pont, sur le 2ème passage et sur la BL. Je peux expliquer assez simplement les 3 premiers, bombe de sommeil au cac et environ 10 secondes de plus pour que le raid traverse le pont? Mais j'ai du mal à m'expliquer la différence de DPS sur la BL. 
+
+En regardant les tableaux le nombre de cast est très similaire mais mes dégâts sont en deça de Maplewind.
+
+...
+
+
 https://www.warcraftlogs.com/reports/Gxk8f4LvBXQgj3FW#fight=last&source=17&ability=22568&view=rankings
 https://www.warcraftlogs.com/reports/compare/Gxk8f4LvBXQgj3FW/8QxhPFpn96J4ZAHq#fight=12,14&source=17,Maplewind&type=damage-done&ability=22568&view=events
-
-## Analyse de sa performance
 
 https://www.warcraftlogs.com/reports/Gxk8f4LvBXQgj3FW#fight=last&type=damage-done&source=17&ability=22568&view=events
 
