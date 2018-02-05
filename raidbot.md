@@ -25,7 +25,7 @@ L'<a href="https://www.curseforge.com/wow/addons/simulationcraft" target="_blank
 
 ## Quick sim
 
-<a href="https://www.raidbots.com/simbot/quick" target="_blank">Par ici!</a>
+<a id="quick_sim" href="https://www.raidbots.com/simbot/quick" target="_blank">Par ici!</a>
 
 Pas besoin de se prendre la tête, une fois le personnage importé on clique sur **Run quick sim** et pouf! :boom: On a le DPS *théorique* de notre personnage.
 
@@ -50,7 +50,7 @@ Sur **Fight Style** on a le choix entre :
 
 ## Stat weights
 
-<a href="https://www.raidbots.com/simbot/stats" target="_blank">Par ici!</a>
+<a id="stat_weights" href="https://www.raidbots.com/simbot/stats" target="_blank">Par ici!</a>
 
 Affiche le nombre de DPS gagné par point de stat.
 
@@ -75,7 +75,7 @@ Je vais donc devoir privilégier ces stats.
 
 ## Top Gear
 
-<a href="https://www.raidbots.com/simbot/topgear" target="_blank">Par ici!</a>
+<a id="top_gear" href="https://www.raidbots.com/simbot/topgear" target="_blank">Par ici!</a>
 
 Permet de trouver quel ensemble d'objet rapport le plus de DPS.
 
@@ -92,7 +92,7 @@ Bouton **Find top gear** puis on le laisse mouliner.
 
 ## Gear Compare
 
-<a href="https://www.raidbots.com/simbot/gear" target="_blank">Par là!</a>
+<a id="gear_compare" href="https://www.raidbots.com/simbot/gear" target="_blank">Par là!</a>
 
 La fonction **Gear Compare** permet de comparer rapidement n'importe quel loot (même ceux qu'on a pas dans son sac contrairement à Top Gear cité plus haut).
 
