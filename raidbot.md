@@ -92,10 +92,23 @@ Bouton **Find top gear** puis on le laisse mouliner.
 
 ## Gear Compare
 
-todo
+<a href="https://www.raidbots.com/simbot/gear" target="_blank">Par là!</a>
+
+La fonction **Gear Compare** permet de comparer rapidement n'importe quel loot (même ceux qu'on a pas dans son sac contrairement à Top Gear cité plus haut).
+
+Pareil que les fonctions précédentes, on rentre d'abord les informations de son perso. On peut ensuite rentrer un ou plusieurs **Gearset** contenant eux même un ou plusieurs **Item**. Pour cela on clic sur **Addd gearset** et **Add item**.
+
+`Interface :`
+![screenshot]({{ "/img/raidbots/trinket_compare.PNG" | absolute_url }})
+
+On peut par exemple simuler rapidement un objet en raid, ici on rentre le nom de l'objet en Anglais, *Golga...* Puis on clique sur **Compare Items**
+
+`Résultats :`
+![screenshot]({{ "/img/raidbots/trinket_compare_result.PNG" | absolute_url }})
+
 
 ---
 
 ---
 
-> version 0.1 - patch 7.2.5
+> version 0.2 - patch 7.3
