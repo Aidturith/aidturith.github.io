@@ -96,7 +96,8 @@ Bouton **Find top gear** puis on le laisse mouliner.
 
 La fonction **Gear Compare** permet de comparer rapidement n'importe quel loot (même ceux qu'on a pas dans son sac contrairement à Top Gear cité plus haut).
 
-Pareil que les fonctions précédentes, on rentre d'abord les informations de son perso. On peut ensuite rentrer un ou plusieurs **Gearset** contenant eux même un ou plusieurs **Item**. Pour cela on clic sur **Addd gearset** et **Add item**.
+Pareil que les fonctions précédentes, on rentre d'abord les informations de son perso.
+Puis on peut ensuite rentrer un ou plusieurs **Gearset** contenant eux même un ou plusieurs **Item**. Pour cela on clique sur **Add gearset** et **Add item**.
 
 `Interface :`
 ![screenshot]({{ "/img/raidbots/trinket_compare.PNG" | absolute_url }})
